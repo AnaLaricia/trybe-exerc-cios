@@ -6,26 +6,26 @@ _“Trybe é a escola do futuro para quem quer melhorar de vida e construir uma 
 
 O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias avançadas e habilidades comportamentais.
 
-## Fundamentos de Desenvolvimento Web:
+## Fundamentos de Desenvolvimento Web::hourglass_flowing_sand:
 
 ##### Bloco 1: Introdução - Unix e Shell
 
-- [ ] 1-3: _Unix e Shell- Parte 1_
-- [ ] 1-4: _Unix e Shell- Parte 2_
+- [X] 1-3: _Unix e Shell- Parte 1_
+- [X] 1-4: _Unix e Shell- Parte 2_
 
 ##### Bloco 2: Git e GitHub
 
-- [ ] 2-1: _O que é e para que serve? _
-- [ ] 2-2: _Compreendendo os comandos_
-- [ ] 2-3: _Internet - Compreendendo como funciona_
+- [X] 2-1: _O que é e para que serve? _
+- [X] 2-2: _Compreendendo os comandos_
+- [X] 2-3: _Internet - Compreendendo como funciona_
 
 ##### Bloco 3: Introdução - HTML e CSS
 
-- [ ] 3-1: _HTML e CSS - Estruturas de página_
+- [X] 3-1: _HTML e CSS - Estruturas de página_
 - [ ] 3-2: _HTML e CSS - Primeiros passos com CSS_
 - [ ] 3-3: _HTML e CSS - Seletores e posicionamento_
 - [ ] 3-4: _HTML semântico_
-- [ ] 3-5: _ [Projeto - HTML e CSS] () _
+- [ ] 3-5: _ [Projeto - HTML e CSS] ()_
 
 ##### Bloco 4: Introdução - JavaScript
 
@@ -84,7 +84,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - [ ] 10-3: _Jest - Simulando comportamentos_
 - [ ] 10-4: _ [Projeto - Montagem e Simulação de Jest] () _
 
-## Desenvolvimento de front-end:
+## Desenvolvimento de front-end::hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução - React
 
@@ -140,7 +140,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 
 - [ ] 19-1: _ [Projeto - Aplicativo de receita] () _
 
-## Desenvolvimento de back-end: hourglass_flowing_sand:
+## Desenvolvimento de back-end::hourglass_flowing_sand:
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 
@@ -236,7 +236,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 
 - [ ] 34-1: _ [Projeto - Trybeer V2] () _
 
-## Ciência da Computação:
+## Ciência da Computação::hourglass_flowing_sand:
 
 ##### Bloco 35: Introdução - Ciência da Computação
 
